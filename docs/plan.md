@@ -13,3 +13,7 @@
 8. Ghi chú lại mọi vấn đề gặp phải để hỏi.
 9. Lên kế hoạch chi tiết cho tuần tiếp theo.
 10. Dành 2 tiếng mỗi ngày để ôn tập kiến thức cơ bản.
+---
+Ghi chú quan trọng:
+- Liên hệ giáo viên để hỏi về phần conflict resolution.
+- Cần hoàn thành dọn dẹp thư mục dự án cuối tuần.
