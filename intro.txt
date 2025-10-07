@@ -1,0 +1,15 @@
+Chào mọi người, tôi là Trần Hữu Nghị.
+Tôi hiện đang theo học ngành CNTT.
+Mục tiêu của tôi là hoàn thành tốt khóa học này và tìm được một công việc tốt.
+Tôi rất hứng thú với lĩnh vực trí tuệ nhân tạo và phát triển phần mềm.
+Rất mong được học hỏi và chia sẻ kinh nghiệm cùng mọi người.
+
+Sở thích:
+- Lập trình (coding)
+- Chơi game chiến thuật
+- Đọc tin tức công nghệ
+
+Kỹ năng:
+- Lập trình C++ và Python
+- Cơ sở dữ liệu (SQL)
+- Sử dụng Git/GitHub
