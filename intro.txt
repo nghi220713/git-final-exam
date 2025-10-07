@@ -13,3 +13,10 @@ Kỹ năng:
 - Lập trình C++ và Python
 - Cơ sở dữ liệu (SQL)
 - Sử dụng Git/GitHub
+
+Kế hoạch học tập:
+1. Hoàn thành khóa học về Git/GitHub này một cách xuất sắc.
+2. Nắm vững các khái niệm về Git Branching và Merging.
+3. Thực hành dự án nhỏ về web development trong tháng tới.
+4. Đọc tài liệu chuyên sâu về kiến trúc máy tính.
+5. Ôn tập kiến thức đã học vào cuối tuần và tìm hiểu thêm về AI.
