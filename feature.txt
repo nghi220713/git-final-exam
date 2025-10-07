@@ -1,0 +1,7 @@
+Tính năng mới: Hệ thống Quản lý Dự án
+    
+Mô tả:
+Tính năng này sẽ cho phép người dùng tạo, theo dõi và quản lý các dự án cá nhân.
+Các tính năng con bao gồm: tạo dự án, gán thẻ (tagging), và báo cáo tiến độ.
+Đây là một tính năng trọng tâm, cần được kiểm tra kỹ lưỡng trước khi merge vào main.
+Kế hoạch triển khai ban đầu: 3 ngày.
