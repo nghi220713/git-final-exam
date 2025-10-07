@@ -1,0 +1,15 @@
+Giới thiệu cá nhân:
+Tôi là Nghi, sinh viên năm 4 ngành CNTT. 
+Tôi yêu thích lập trình và học hỏi công nghệ mới.
+Tôi sống tại Bình Dương và thích đọc sách mỗi sáng.
+Tôi đang học Git để quản lý mã nguồn hiệu quả.
+
+Sở thích:
+- Lập trình
+- Du lịch
+- Xem phim
+
+Kỹ năng:
+- Git cơ bản
+- Python
+- Giao tiếp nhóm
