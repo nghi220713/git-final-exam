@@ -1,1 +1,3 @@
 
+Đây là dòng thứ tư được thêm từ local.
+Đây là dòng thứ năm, hoàn tất cập nhật.
