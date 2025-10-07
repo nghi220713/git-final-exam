@@ -1,0 +1,3 @@
+- Git là công cụ quản lý phiên bản cực kỳ mạnh mẽ.
+- Việc sử dụng branch giúp phát triển tính năng độc lập, rất hiệu quả.
+- Ban đầu có thể khó hiểu, nhưng rất đáng để học.
